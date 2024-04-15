@@ -1,2 +1,3 @@
 # frist-harmony-app
-学习鸿蒙开发做的应用程序
+
+用鸿蒙的第一个APP
